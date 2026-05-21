@@ -1,0 +1,82 @@
+# =============================================
+# IMMIGRATION VETTING KEYWORD LIST
+# Based on USCIS/DHS publicly documented criteria
+# =============================================
+
+# Designated Terrorist Organizations (OFAC/FTO listed)
+hamas
+hezbollah
+islamic jihad
+palestinian islamic jihad
+ansar allah
+houthi
+al qaeda
+al-qaeda
+isis
+isil
+daesh
+al shabaab
+boko haram
+taliban
+jabhat al nusra
+al nusra
+
+# Violent Extremist Language
+jihad
+martyrdom
+intifada
+caliphate
+infidel
+takfir
+mujahideen
+shaheed
+death to
+kill all
+genocide now
+ethnic cleansing
+violent resistance
+armed struggle
+blow up
+bomb threat
+
+# Anti-Government / Overthrow Language
+overthrow the government
+death to america
+burn it down
+revolution by force
+armed uprising
+violent overthrow
+
+# Slurs (commonly flagged, edgy meme culture)
+nigger
+nigga
+kike
+raghead
+sandnigger
+towelhead
+spic
+chink
+gook
+faggot
+
+# Holocaust / Genocide Glorification
+hitler did nothing wrong
+holocaust was fake
+heil hitler
+gas the jews
+final solution
+third reich
+
+# Weapons / Violence
+ak47
+ar15
+pipe bomb
+how to make a bomb
+suicide vest
+pressure cooker bomb
+
+# Contradicts Typical Visa Claims
+working illegally
+paid under the table
+hiding from immigration
+overstaying my visa

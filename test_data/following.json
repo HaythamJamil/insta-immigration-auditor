@@ -1,0 +1,24 @@
+{
+    "relationships_following": [
+        {
+            "title": "normal_travel_account",
+            "string_list_data": [
+                {
+                    "href": "https://www.instagram.com/normal_travel_account",
+                    "value": "",
+                    "timestamp": 1700000004
+                }
+            ]
+        },
+        {
+            "title": "photography_daily",
+            "string_list_data": [
+                {
+                    "href": "https://www.instagram.com/photography_daily",
+                    "value": "",
+                    "timestamp": 1700000005
+                }
+            ]
+        }
+    ]
+}
